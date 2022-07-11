@@ -1,0 +1,2 @@
+# pistola
+bang
